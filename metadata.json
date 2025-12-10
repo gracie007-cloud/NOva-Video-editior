@@ -1,0 +1,7 @@
+{
+  "name": "VideoAI Pro",
+  "description": "A professional, browser-based video editor with AI capabilities, featuring a modern glassmorphism UI, floating tools, and multi-track timeline.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
